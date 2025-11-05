@@ -17,20 +17,9 @@
 // const nextConfig = {
 //   output: 'export',
 //   images: { unoptimized: true },
-//   basePath: '/portfolio',
-//   assetPrefix: '/portfolio/',
+//   basePath: '/portfolio2',
+//   assetPrefix: '/portfolio2/',
 //   trailingSlash: true,
 // };
 
-// module.exports = nextConfig;
-
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
-  images: { unoptimized: true },
-  basePath: '/portfolio',
-  assetPrefix: '/portfolio/',
-  trailingSlash: true,
-};
-
-export default nextConfig;
+// export default nextConfig;

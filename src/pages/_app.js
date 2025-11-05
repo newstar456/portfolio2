@@ -1,4 +1,4 @@
-import '@/styles/globals.css'
+import './globals.css'
 import {Montserrat} from 'next/font/google';
 import Head from 'next/head';
 import NavBar from '@/components/NavBar';
