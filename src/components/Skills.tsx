@@ -98,7 +98,7 @@ export default function Skills() {
           ))}
         </div>
 
-        <motion.div layout className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8">
+        <motion.div layout className="grid grid-cols-2 2xl:grid-cols-2  xl:grid-cols-2 lg:grid-cols-2 xs:grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-8">
           <AnimatePresence>
             {filtered.map((skill) => (
               <SkillCard key={skill.name} skill={skill} />
