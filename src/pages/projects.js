@@ -39,7 +39,7 @@ const projects = [
     ],
     image: "/images/projects/baza.png",
     source_code_link: "https://github.com/baza-trainee/baza-everything-can-move",
-    website_link: "https://github.com/baza-trainee/baza-everything-can-move",
+    website_link: "https://baza-everything-can-move.vercel.app/",
   },
   {
     name: "Web Store with CRM for a jewelry wholesaler",
