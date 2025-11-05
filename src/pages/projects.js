@@ -60,7 +60,7 @@ const projects = [
   {
     name: "Online Platform for University",
     description:
-      "A comprehensive platform that allows users to book services, manage data, and provides a custom UI for university operations.",
+      "A comprehensive platform that allows users to book services, manage data, and provides a custom UI for university operations. * add into cookies in DevTools: key - ACCESS_TOKEN; value - stable-token",
     tags: [
       { name: "react" },
       { name: "typescript" },
